@@ -22,6 +22,15 @@ The purpose of this project is to create a computer program that distinguishes s
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/8cbcf57d-f874-4c1e-8be9-047817a6e167">
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/eeeb7da4-c407-4ef6-9fe7-92a93b20a406">
 
+## Preprocessing (denosing): STA/LTA Algorthium
+
+<img width="847" alt="image" src="https://github.com/user-attachments/assets/e551f5f0-c0cc-4e89-bd68-125c17d9141a">
+<img width="839" alt="image" src="https://github.com/user-attachments/assets/6fd681dd-fc2c-4ad8-bc6b-01da150527da">
+<img width="847" alt="image" src="https://github.com/user-attachments/assets/645b1546-3071-44c3-910f-e22b9c3fdc11">
+
+
+
+
 
 
 
