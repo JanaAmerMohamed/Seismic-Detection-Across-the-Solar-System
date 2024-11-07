@@ -7,7 +7,9 @@ The purpose of this project is to create a computer program that distinguishes s
 
 ## steps for the Solutions:
 1- read the data
+
 2- Preprocessing (denosing)
+
 3- build model 
 
 ## some reads Data plotting
