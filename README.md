@@ -1,4 +1,4 @@
-# #Seismic Detection Model with Artificial Neural Networks
+## Seismic Detection Model with Artificial Neural Networks
 
 ## Abstarct
 
